@@ -1,0 +1,5 @@
+# Week 6: Data Visualization Mastery
+pandas>=1.5
+matplotlib>=3.7
+seaborn>=0.12
+plotly>=5.15
