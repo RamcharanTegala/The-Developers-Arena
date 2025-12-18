@@ -1,0 +1,3 @@
+# Week 4: Data Visualization Project
+pandas>=1.5
+matplotlib>=3.7
