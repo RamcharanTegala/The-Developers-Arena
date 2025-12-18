@@ -1,0 +1,2 @@
+# Week 3: Sales Data Analysis
+pandas>=1.5
