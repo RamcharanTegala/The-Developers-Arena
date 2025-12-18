@@ -1,0 +1,3 @@
+# Week 2: Student Grade Calculator
+# This project uses only Python built-in features
+# No external libraries are required
