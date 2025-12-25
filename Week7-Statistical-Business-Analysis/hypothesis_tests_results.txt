@@ -1,0 +1,5 @@
+Hypothesis Test Results
+-----------------------
+One-sample t-test p-value: 1.9033857040348836e-17
+Churn vs Non-Churn p-value: nan
+ANOVA p-value: 0.09342819607538894
